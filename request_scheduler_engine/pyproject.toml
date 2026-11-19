@@ -1,0 +1,9 @@
+
+[project]
+name = "request-scheduling-engine"
+version = "0.1.0"
+description = "Educational FIFO and priority request scheduling engine"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 100
